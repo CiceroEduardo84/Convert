@@ -1,7 +1,5 @@
 # Convert
 
----
-
 "Convert" is a simple web application for converting currency values. It allows users to input a value in a foreign currency (US Dollar, Euro, or Pound Sterling) and convert it to Reais (BRL). The interface is clean and functional, with a focus on user experience.
 
 ## Technologies Used
