@@ -2,30 +2,30 @@
 
 ---
 
-"Convert" é uma aplicação web simples para conversão de valores monetários. Ele permite que os usuários insiram um valor em uma moeda estrangeira (Dólar Americano, Euro, ou Libra Esterlina) e o convertam para Reais (BRL). A interface é limpa e funcional, com foco na experiência do usuário.
+"Convert" is a simple web application for converting currency values. It allows users to input a value in a foreign currency (US Dollar, Euro, or Pound Sterling) and convert it to Reais (BRL). The interface is clean and functional, with a focus on user experience.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- HTML5: Estrutura básica do projeto.
-- CSS3: Estilização da interface com um design moderno.
-- JavaScript: Lógica para realizar os cálculos de conversão e interatividade.
+- HTML5: Basic structure of the project.
+- CSS3: Styling of the interface with a modern design.
+- JavaScript: Logic to perform conversion calculations and interactivity.
 
-## Funcionalidades
+## Functionalities
 
-- Entrada de valor numérico para conversão.
-- Seleção de moeda estrangeira (USD, EUR, GBP).
-- Exibição do resultado em reais (BRL).
-- Informação da taxa de câmbio utilizada na conversão.
+- Input of numeric value for conversion.
+- Selection of foreign currency (USD, EUR, GBP).
+- Display of the result in Reais (BRL).
+- Information on the exchange rate used in the conversion.
 
-## Como Usar
+## How to Use
 
-Clone este repositório:
+Clone this repository:
 
 ```Bash
 git clone https://github.com/CiceroEduardo84/Convert.git`
 ```
 
-1. Abra o arquivo index.html em seu navegador preferido.
-2. Insira o valor desejado no campo "valor".
-3. Escolha a moeda no campo "moeda".
-4. Clique no botão "Converter em reais" para exibir o valor convertido.
+1. Open the index.html file in your preferred web browser.
+2. Enter the desired amount in the "amount" field.
+3. Choose the currency in the "currency" field.
+4. Click the "Convert to reais" button to display the converted amount.
